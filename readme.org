@@ -1,6 +1,0 @@
-* Hi there!
-
-- I'm currently a Lead Software Engineer [[https:www.commercehub.com][@CommerceHub]] focused on building the best teams that I can.
-- I'm currently learning how to best learn in public. I think the way I have settled on for now is to maintain multiple public repositories, such that others can find my learnings.
-- How to reach me: the best way is to email [[mailto:dskinne12@gmail.com][me]] 
-- Pronouns: He/His
