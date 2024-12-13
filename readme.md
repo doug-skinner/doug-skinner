@@ -4,7 +4,7 @@ This page is meant to help others get to know me, what I work on, how I work, an
 
 ## Bio
 
-I'm Doug Skinner, a Senior Backend Engineer @Parexel where I own the backend applications and infrastructure for their NLP platform. This is a combination of work all over the stack, and I am interested in touching most things that aren't the frontend. Nothing against frontend development, it just isn't my cup of tea right now.
+I'm Doug Skinner, an Engineering Manager [@Parexel](https://www.parexel.com/) where I own the backend applications and infrastructure for their NLP platform. This is a combination of work all over the stack, and I am interested in touching most things that aren't the frontend. Nothing against frontend development, it just isn't my cup of tea right now.
 
 Before joining Parexel, I was battle tested as a lead engineer running two teams of 6 engineers [@CommerceHub](https://www.commercehub.com). I was responsible for all software design decisions as well as all aspects of managing a remote team of engineers for both of these teams.
 
